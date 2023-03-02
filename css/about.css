@@ -1,0 +1,52 @@
+.about{
+    text-align: center;
+    /* justify-content: center; */
+    width: 40vw;
+    position: relative;
+    margin-top: 17%;
+    margin-left: 25%;
+}
+.desc{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.box{
+    display: flex;
+    text-align: center;
+    gap: 10%;
+    margin-top:20px ;
+    
+    
+}
+.doctor{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    height: 60px;
+    width: 140px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px 3px grey;
+    
+}
+.customer{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    height: 60px;
+    width: 140px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px 3px grey;
+}
+.student{
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+    height: 60px;
+    width: 140px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 5px 3px grey;
+
+}
